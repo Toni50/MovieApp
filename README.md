@@ -1,8 +1,8 @@
-!\[Home](demo gifs/home.gif)
+!\[Home](demo%20gifs/home.gif)
 
-!\[Movie details](demo gifs/movie details.gif)
+!\[Movie details](demo%20gifs/movie details.gif)
 
-!\[Search](demo gifs/search.gif)
+!\[Search](demo%20gifs/search.gif)
 
-!\[Watchlist](demo gifs/watchlist.gif)
+!\[Watchlist](demo%20gifs/watchlist.gif)
 
